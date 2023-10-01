@@ -24,7 +24,7 @@ The website will be made using Laravel and MySQL will be used for making the dat
 <br>
 <br>
 
-Project Goals:
+## Project Goals
 
 <br>
 
