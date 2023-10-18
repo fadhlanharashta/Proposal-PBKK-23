@@ -13,10 +13,7 @@ class FormController extends Controller
         $rules = [
             'Name' => 'required|string|max:255',
             'Address' => 'required|string|max:255',
-            'Email' => 'required|email',
-            'Age' => 'required|integer',
-            'Height' => 'required|numeric',
-            'Picture' => 'image|mimes:jpeg,png,jpg,gif', 
+            'Email' => 'required|email'
         ];
 
         // validation messages
